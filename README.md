@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @behicsoft
+- 👋 Hi, I’m @BeTaSof
 - 👀 I’m interested in applications
 - 🌱 I’m currently learning SwiftUI
 - 💞️ I’m looking to collaborate on useful application projects
