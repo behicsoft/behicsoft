@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BeTaSof
-- 👀 I’m interested in applications
+- 👀 I’m interested in mobile applications
 - 🌱 I’m currently learning SwiftUI
 - 💞️ I’m looking to collaborate on useful application projects
 - 📫 How to reach me behictalha@gmail.com
